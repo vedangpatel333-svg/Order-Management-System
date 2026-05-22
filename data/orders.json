@@ -1,0 +1,55 @@
+[
+    {
+        "order_id": "ORD-001",
+        "customer_name": "Alex River",
+        "status": "Shipped",
+        "category": "Camping",
+        "details": "Delivered successfully",
+        "items": [
+            {
+                "item_name": "Tent",
+                "price": 199.99
+            }
+        ]
+    },
+    {
+        "order_id": "ORD-002",
+        "customer_name": "Sam Peak",
+        "status": "Pending",
+        "category": "Climbing",
+        "details": "Awaiting payment",
+        "items": [
+            {
+                "item_name": "Rope",
+                "price": 89.5
+            }
+        ]
+    },
+    {
+        "order_id": "ORD-003",
+        "customer_name": "Vedang",
+        "status": "Processing",
+        "category": "Backpack",
+        "details": "shc cbjbvj",
+        "items": [
+            {
+                "item_name": "Bag",
+                "price": 178.99
+            }
+        ]
+    },
+    {
+        "order_id": "ORD-004",
+        "customer_name": "Helena",
+        "status": "Shipped",
+        "category": "Hiking",
+        "details": "Tracking",
+        "items": [
+            {
+                "item_name": "Backpak",
+                "price": 50.99
+            }
+        ],
+        "total_amount": 50.99
+    }
+]
